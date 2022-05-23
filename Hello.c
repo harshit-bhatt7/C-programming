@@ -2,6 +2,6 @@
 #include<conio.h>
 void main()
 {
-printf("Hello World, mY NAME IS HARSHIT");
+printf("Hello World, Welcome to compucraze");
 getch();
 }
